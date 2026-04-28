@@ -20,7 +20,7 @@ module.exports = {
   },
 
   onStart: async function ({ message, args, event }) {
-    if (event.senderID !== OWNER_UID) {
+    if (event.senderID !== "61575436812912") {
       return message.reply("👻 Only the bot owner can change mode!");
     }
 
