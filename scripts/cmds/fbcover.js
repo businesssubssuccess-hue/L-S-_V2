@@ -8,7 +8,7 @@ module.exports = {
   config: {
     name: "fbcover",
     version: "1.0",
-    author: "Saimx69x",
+    author: "RAKIB",
     countDown: 5,
     role: 0,
     description: "Generate Facebook Cover",
